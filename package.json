@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://lisitsyna-anna.github.io/dream-team-project",
+  "homepage": "https://olhazamlynska.github.io/team-project-ICE-CREAM",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /dream-team-project/"
+    "build": "parcel build src/*.html --public-url /team-project-ICE-CREAM/"
   },
   "repository": {
     "type": "git",
