@@ -92,5 +92,5 @@ website consists of several sections.
 
 If you have any questions or feedback, please feel free to contact me:
 
-- Email: [olyazamlynska@gmail.com](mailto:olhazamlynska@gmail.com)
+- Email: [olhazamlynska@gmail.com](mailto:olhazamlynska@gmail.com)
 - GitHub: [@olhazamlynska](https://github.com/olhazamlynska)
